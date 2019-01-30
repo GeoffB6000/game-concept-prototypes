@@ -1,5 +1,5 @@
 # Project "Anthropocene"
-#### concept by Geoffrey Bates, DH5000 2018-2019
+#### Geoffrey Bates, DH5000 2018-2019
 #### 29-01-2019
 
 ## Overview
