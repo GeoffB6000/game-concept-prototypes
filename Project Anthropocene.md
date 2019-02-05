@@ -1,6 +1,9 @@
 # Project "Anthropocene"
 #### Geoffrey Bates, DH5000 2018-2019
-#### 29-01-2019
+#### 05-02-2019
+
+## The Team
+Sali, Marissa, Ayda, Andrea, Ruth, Geoff
 
 ## Overview
 This project aims to represent in game form some key themes in the field of Digital Humanities as understood by Carleton University's DH5000 class of 2018/2019. Our objective is to introduce the main concerns of Digital Humanities to those who have so far had minimal engagement with the term, in a way that is both instructive and entertaining, in order to promote understanding and curiosity of some of the fundamental problems of our time. At the time of this writing, group consensus is pointing towards a card game taking inspiration from Kate Compton's [Generominos](http://www.galaxykate.com/generominos/). The principal act is the creative combination of DH tools and other technologies directed towards solving social, environmental, and scientific problems. The goal of this file is to describe a conceptual and narrative framework into which we can insert our developing mechanics.
@@ -26,7 +29,7 @@ The year is 2525. The surviving life of Earth is adapting to the omnipresence of
 - **PROJECT DECKS**. There will be one of these for the AEON and one for OLYMPUS. Cards in this deck outline the organization's parameters for a given project. Examples: 
 - *MAKER, OLYMPUS calls upon you to develop a program to be uploaded to the archaic JUNO SPACECRAFT with the purpose of establishing communication with THE JUPITER ENTITY. The program will require maximal intelligence and minimal computing power.* 
 - *MAKER, THE AEON calls upon you to train disadvantaged youth in the VANCOUVER-2 CONURBATION in the use and maintenance of information technologies. Your proposal must make use of locally-available materials and adhere to the 2104 REVISED HUMAN RIGHTS CODE.*
-- **CRISIS DECK**. These cards describe situations arising from the tumultuous state of the world which impose limitations on your creative process. Example: 
+- **EVENTS DECK**. These cards describe situations arising from the world which may impose limitations on your creative process, or offer help. Example: 
 - *QUARANTINE. Your country has sealed all international trade and travel in response to an emerging global pandemic. From this point forward, your proposal cannot involve NON-LOCAL RESOURCES.*
 - **MARKET DECK**. Represents technologies and resources available to be purchased through the RED MARKET. These cards can be really useful, but they bring features which may jeopardize the proposal in the eyes of the AEON among other potential consequences.
 
@@ -48,3 +51,27 @@ At the end of the in-game year, the AEON and OLYMPUS choose which proposals to r
 ## Next Steps
 - We wanted to implement a system where every once in a while you draw a card that tells you to "take a break/get some coffee/breathe/stretch/otherwise care for your body.
 - Specific design work needs to be done for all cards. We need to figure out the themes/flavours of various technologies and how these fit with AEON/OLYMPUS ideals, and come up with a fair way to score proposals.
+- Everyday things! 
+- Goal cards have different time spans/limits
+- Playing with time
+- Deck content
+- Prototype
+
+## Notes
+- ethical creation is a choice
+- DH is a frame of mind that does not require computers
+- Board Game Crafter
+- Do we need a winner?
+- Common goals?
+- Endgame is narrative through achieved goals
+- Links to theory (Afro-futurism, etc.)
+- Research? Research! Theoretical implications of our narrative components.
+- "destroying information is an unethical act"
+- Where do we position ethics?
+
+## Lessons
+- Computational creativity
+- Minimmal Computing
+- Accessibility
+- Failure/Trial and Error "Screwmeneutics"
+- Generous Thinking
