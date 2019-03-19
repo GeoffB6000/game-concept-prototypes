@@ -1,6 +1,6 @@
 # ALL CARDS (80) 
 
-#### Legend: DIAMOND = digital technology, CLUB = analog technology, SPADE = material, HEART = art/conceptual
+#### Legend: DIAMOND = digital technology, CLUB = analog technology, SPADE = material, HEART = art/inspirations
 
 ## DIAMOND (10)
 
@@ -22,7 +22,7 @@
 
 9 - Image Editing Software: allows for the creation or alteration of digital images.
 
-10 - Podcaast
+10 - Podcast
 
 ## CLUB (10)
 
@@ -34,17 +34,17 @@
 
 14 - Dice
 
-15 - Map: a physical drawing corresponding to a location or phenomenon.
+15 - Marbles
 
-16 - 
+16 - Telescope
 
-17 - 
+17 - Pulley
 
-18 - 
+18 - Generator
 
-19 - 
+19 - Magnets
 
-20 - 
+20 - Pump
 
 ## SPADE (10)
 
@@ -70,25 +70,25 @@
 
 ## HEART (10)
 
-31 - An Artistic Movement
+31 - Artistic Movement
 
-32 - The Complete Works of (Author)
+32 - Storytelling
 
-33 - A Genre of Music
+33 - Music
 
-34 - 
+34 - Theatre
 
-35 - 
+35 - Pattern
 
-36 - 
+36 - Observational Drawing/Painting
 
-37 - 
+37 - Poetry
 
-38 -
+38 - Dance
 
-39 - 
+39 - Social Movement
 
-40 - 
+40 - Natural Environment
 
 ## DIAMOND / CLUB (5)
 
@@ -100,7 +100,7 @@
 
 44 - Radio
 
-45 - 
+45 - Motor
 
 ## DIAMOND / SPADE (5)
 
@@ -120,7 +120,7 @@
 
 52 - Internet-sourced video: digital video files on a variety of sources shared by users on the internet. Pick a topic - there is probably a video about it.
 
-53 - Augmented/Virtual Reality: a system which overlays invented stimuli over the physical senses.
+53 - Augmented/Virtual Reality: a system which overlays invented images over the physical senses.
 
 54 - Glitch Art: a method of art production dependent on corrupting files and other forms of non-intended computer use.
 
@@ -146,9 +146,9 @@
 
 63 - Books
 
-64 - Illustrations/Interpretive Drawings
+64 - Map: a physical drawing corresponding to a location or phenomenon.
 
-65 - Calendar
+65 - Gardening
 
 ## SPADE / HEART (5)
 
@@ -172,7 +172,7 @@
 
 73 - Data Mapping
 
-74 - Archive
+74 - The Complete Works of (Author)
 
 ## DIAMOND / SPADE / HEART (2)
 
