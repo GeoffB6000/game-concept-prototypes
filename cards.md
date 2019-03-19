@@ -166,11 +166,13 @@
 
 20 - 
 
-#- ALL CARDS - 
+#- ALL CARDS (80)- 
+
+## DIAMOND (10)
 
 1 - Machine Learning
 
-2 - Container (pot, barrel, etc.)
+2 - 
 
 3 - Dance
 
@@ -187,6 +189,8 @@
 9 - Image Editing Software: allows for the creation or alteration of digital images.
 
 10 - Bicycle
+
+## CLUB (10)
 
 11 - Narrative Textiles - woven materiels imbued with stories.
 
@@ -208,7 +212,9 @@
 
 20 - Metal Wires
 
-21 - Drone: remote-controlled mobile machine capable of carrying sensory equipment (camera, microphone, etc.) as well as other tools.
+## SPADE (10)
+
+21 - Container (pot, barrel, etc.)
 
 22 - Minimal Computer: a portable device capable of running low-resource computer programs.
 
@@ -228,102 +234,126 @@
 
 30 - Bot: an algorithm that mimics human engagement on the internet or generates permutations of a given task.
 
+## HEART (10)
+
 31 - Map: a physical drawing corresponding to a location or phenomenon.
 
-32
+32 -
 
-33
+33 - 
 
-34
+34 - 
 
-35
+35 - 
 
-36
+36 -
 
-37
+37 -
 
-38
+38 -
 
-39
+39 - 
 
-40
+40 - 
 
-41
+## DIAMOND / CLUB (5)
 
-42
+41 - 
 
-43
+42 -
 
-44
+43 -
 
-45
+44 -
 
-46
+45 -
 
-47
+## DIAMOND / SPADE (5)
 
-48
+46 - Drone: remote-controlled mobile machine capable of carrying sensory equipment (camera, microphone, etc.) as well as other tools.
 
-49
+47 -
 
-50
+48 -
 
-51
+49 -
 
-52
+50 -
 
-53
+## DIAMOND / HEART (5)
 
-54
+51 -
 
-55
+52 -
 
-56
+53 -
 
-57
+54 -
 
-58
+55 -
 
-59
+## CLUB / SPADE (5)
 
-60
+56 -
 
-61
+57 -
 
-62
+58 -
 
-63
+59 -
 
-64
+60 -
 
-65
+## CLUB / HEART (5)
 
-66
+61 -
 
-67
+62 -
 
-68
+63 -
 
-69
+64 -
 
-70
+65 -
 
-71
+## SPADE / HEART (5)
 
-72
+66 -
 
-73
+67 -
 
-74
+68 -
 
-75
+69 -
 
-76
+70 -
 
-77
+## DIAMOND / CLUB / SPADE (2)
 
-78
+71 -
 
-79
+72 -
 
-80
+## DIAMOND / CLUB / HEART (2)
+
+73 -
+
+74 -
+
+## DIAMOND / SPADE / HEART (2)
+
+75 -
+
+76 -
+
+## CLUB / SPADE / HEART (2)
+
+77 -
+
+78 -
+
+## DIAMOND / CLUB / SPADE / HEART (2)
+
+79 -
+
+80 -
