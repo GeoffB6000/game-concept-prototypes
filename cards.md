@@ -8,7 +8,7 @@
 
 2 - Bot: an algorithm that mimics human engagement on the internet or generates permutations of a given task.
 
-3 - 
+3 - Video Game
 
 4 - Minimal Computer: a portable device capable of running low-resource computer programs.
 
@@ -22,7 +22,7 @@
 
 9 - Image Editing Software: allows for the creation or alteration of digital images.
 
-10 - 
+10 - Podcaast
 
 ## CLUB (10)
 
@@ -96,11 +96,11 @@
 
 42 - Surveillance
 
-43 -
+43 - Clock
 
-44 -
+44 - Radio
 
-45 -
+45 - 
 
 ## DIAMOND / SPADE (5)
 
@@ -110,9 +110,9 @@
 
 48 - Printer
 
-49 - 
+49 - Personal Computer
 
-50 -
+50 - Car
 
 ## DIAMOND / HEART (5)
 
@@ -136,7 +136,7 @@
 
 59 - Loom
 
-60 - 
+60 - Cork Board
 
 ## CLUB / HEART (5)
 
@@ -148,7 +148,7 @@
 
 64 - Illustrations/Interpretive Drawings
 
-65 - 
+65 - Calendar
 
 ## SPADE / HEART (5)
 
@@ -190,4 +190,4 @@
 
 79 - 3D Printing
 
-80 - 
+80 - Robot
