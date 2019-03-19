@@ -84,7 +84,7 @@
 
 # ARTS
 
-1 - [dance genre]
+1 - dance genre
 
 2 - painting
 
@@ -92,13 +92,13 @@
 
 4 - beadwork
 
-5 - [storytelling genre]
+5 - storytelling genre
 
-6 - [musical genre]
+6 - musical genre
 
-7 - [art genre]
+7 - art genre
 
-8 - The complete works of [author]
+8 - The complete works of author
 
 9 - poetry
 
@@ -132,7 +132,7 @@
 
 3 - blanket
 
-4 - found [object]
+4 - found object
 
 5 - metal wires
 
@@ -168,87 +168,89 @@
 
 #- ALL CARDS (80)- 
 
+#### Legend: DIAMOND = digital technology, CLUB = analog technology, SPADE = material, HEART = art/conceptual
+
 ## DIAMOND (10)
 
 1 - Machine Learning
 
-2 - 
+2 - Bot: an algorithm that mimics human engagement on the internet or generates permutations of a given task.
 
-3 - Dance
+3 - Augmented Reality
 
-4 - Clay
+4 - Minimal Computer: a portable device capable of running low-resource computer programs.
 
 5 - Optical Character Recognition (OCR): software enabling computers to interpret hand-written or typed text.
 
-6 - Dice
+6 - Global Positioning System (GPS): coordinates with satellites to provide information about the GPS' location on Earth.
 
-7 - Painting
+7 - Synthesizer: a device for producing electronic sounds and music.
 
-8 - Empty Bottles
+8 - Multi-lingual coding
 
 9 - Image Editing Software: allows for the creation or alteration of digital images.
 
-10 - Bicycle
+10 - Virtual Reality
 
 ## CLUB (10)
 
-11 - Narrative Textiles - woven materiels imbued with stories.
+11 - Smoke Signal
 
-12 - Blanket
+12 - Lathe + carving tools: tools that allow a skilled user to shape wood, plastic, stone, or other materials.
 
-13 - Global Positioning System (GPS): coordinates with satellites to provide information about the GPS' location on Earth.
+13 - Film camera (photo or video)
 
-14 - Musical Instrument: choose one
+14 - Dice
 
-15 - Beadwork: art produced by linking beads through strings or wires.
+15 - Map: a physical drawing corresponding to a location or phenomenon.
 
-16 - Found Object: choose an ordinary item you can see in your vicinity, or one you have seen abandoned in a public space.
+16 - 
 
-17 - Synthesizer: a device for producing electronic sounds and music.
+17 - 
 
-18 - Lathe + carving tools: tools that allow a skilled user to shape wood, plastic, stone, or other materials.
+18 - 
 
-19 - Storytelling: the act of sharing stories.
+19 - 
 
-20 - Metal Wires
+20 - 
 
 ## SPADE (10)
 
 21 - Container (pot, barrel, etc.)
 
-22 - Minimal Computer: a portable device capable of running low-resource computer programs.
+22 - Metal Wires
 
-23 - Potter's Wheel
+23 - Empty Bottles
 
-24 - Musical Genre: 
+24 - Solar Panel: a device which converts sunlight into electrical power.
 
 25 - Plastic Bags
 
-26 - Internet-sourced video: digital video files on a variety of sources shared by users on the internet. Pick a topic - there is probably a video about it.
+26 - Found Object: choose an ordinary item you can see in your vicinity, or one you have seen abandoned in a public space.
 
-27 - Windmill / Wind Turbine: a device which uses the wind to perform work or generate electrical power.
+27 - Clay
 
-28 - Art Genre:
+28 - Blanket
 
-29 - Solar Panel: a device which converts sunlight into electrical power.
+29 - Old Computer Parts
 
-30 - Bot: an algorithm that mimics human engagement on the internet or generates permutations of a given task.
+30 - 20 wood 2x4s
 
 ## HEART (10)
 
-31 - Map: a physical drawing corresponding to a location or phenomenon.
+31 - Visual Art
 
-32 -
+32 - Dance
 
 33 - 
 
-34 - 
+34 - Music
 
-35 - 
+35 - Storytelling: the act of sharing stories.
 
-36 -
+36 - Painting
 
-37 -
+37 - Poetry
 
 38 -
 
@@ -258,9 +260,9 @@
 
 ## DIAMOND / CLUB (5)
 
-41 - 
+41 - Morse Code
 
-42 -
+42 - 
 
 43 -
 
@@ -272,9 +274,9 @@
 
 46 - Drone: remote-controlled mobile machine capable of carrying sensory equipment (camera, microphone, etc.) as well as other tools.
 
-47 -
+47 - Recycled Smartphone
 
-48 -
+48 - Junk Tech
 
 49 -
 
@@ -282,78 +284,78 @@
 
 ## DIAMOND / HEART (5)
 
-51 -
+51 - Electronic music
 
-52 -
+52 - Internet-sourced video: digital video files on a variety of sources shared by users on the internet. Pick a topic - there is probably a video about it.
 
-53 -
+53 - Podcast
 
-54 -
+54 - Glitch Art
 
 55 -
 
 ## CLUB / SPADE (5)
 
-56 -
+56 - Windmill / Wind Turbine: a device which uses the wind to perform work or generate electrical power.
 
-57 -
+57 - Potter's Wheel
 
-58 -
+58 - Bicycle
 
-59 -
+59 - Loom
 
 60 -
 
 ## CLUB / HEART (5)
 
-61 -
+61 - Tabletop Game
 
-62 -
+62 - Deck of Cards
 
-63 -
+63 - 
 
-64 -
+64 - 
 
-65 -
+65 - 
 
 ## SPADE / HEART (5)
 
-66 -
+66 - Beadwork: art produced by linking beads through strings or wires.
 
-67 -
+67 - Narrative Textiles - woven materiels imbued with stories.
 
-68 -
+68 - 
 
-69 -
+69 - 
 
-70 -
+70 - 
 
 ## DIAMOND / CLUB / SPADE (2)
 
-71 -
+71 - Printing Press
 
-72 -
+72 - 
 
 ## DIAMOND / CLUB / HEART (2)
 
-73 -
+73 - Data Mapping
 
-74 -
+74 - 
 
 ## DIAMOND / SPADE / HEART (2)
 
-75 -
+75 - Gaming Console
 
-76 -
+76 - Video Projector
 
 ## CLUB / SPADE / HEART (2)
 
-77 -
+77 - Musical Instrument
 
-78 -
+78 - Toy
 
 ## DIAMOND / CLUB / SPADE / HEART (2)
 
-79 -
+79 - 3D Printing
 
-80 -
+80 - 
