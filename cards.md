@@ -70,11 +70,11 @@
 
 ## HEART (10)
 
-31 - 
+31 - An Artistic Movement
 
-32 - 
+32 - The Complete Works of (Author)
 
-33 - 
+33 - A Genre of Music
 
 34 - 
 
