@@ -176,7 +176,7 @@
 
 2 - Bot: an algorithm that mimics human engagement on the internet or generates permutations of a given task.
 
-3 - Augmented Reality
+3 - 
 
 4 - Minimal Computer: a portable device capable of running low-resource computer programs.
 
@@ -190,7 +190,7 @@
 
 9 - Image Editing Software: allows for the creation or alteration of digital images.
 
-10 - Virtual Reality
+10 - 
 
 ## CLUB (10)
 
@@ -238,19 +238,19 @@
 
 ## HEART (10)
 
-31 - Visual Art
+31 - 
 
-32 - Dance
+32 - 
 
 33 - 
 
-34 - Music
+34 - 
 
-35 - Storytelling: the act of sharing stories.
+35 - 
 
-36 - Painting
+36 - 
 
-37 - Poetry
+37 - 
 
 38 -
 
@@ -262,7 +262,7 @@
 
 41 - Morse Code
 
-42 - 
+42 - Surveillance
 
 43 -
 
@@ -276,23 +276,23 @@
 
 47 - Recycled Smartphone
 
-48 - Junk Tech
+48 - Printer
 
-49 -
+49 - 
 
 50 -
 
 ## DIAMOND / HEART (5)
 
-51 - Electronic music
+51 - Digital Model: a computer-created blueprint, plan, or visualization of an object.
 
 52 - Internet-sourced video: digital video files on a variety of sources shared by users on the internet. Pick a topic - there is probably a video about it.
 
-53 - Podcast
+53 - Augmented/Virtual Reality: a system which overlays invented stimuli over the physical senses.
 
-54 - Glitch Art
+54 - Glitch Art: a method of art production dependent on corrupting files and other forms of non-intended computer use.
 
-55 -
+55 - Hacktivism: protest through the creative misuse of digital systems.
 
 ## CLUB / SPADE (5)
 
@@ -304,7 +304,7 @@
 
 59 - Loom
 
-60 -
+60 - 
 
 ## CLUB / HEART (5)
 
@@ -312,9 +312,9 @@
 
 62 - Deck of Cards
 
-63 - 
+63 - Books
 
-64 - 
+64 - Illustrations/Interpretive Drawings
 
 65 - 
 
@@ -322,25 +322,25 @@
 
 66 - Beadwork: art produced by linking beads through strings or wires.
 
-67 - Narrative Textiles - woven materiels imbued with stories.
+67 - Narrative Textiles: woven materials imbued with stories.
 
-68 - 
+68 - Sculpture
 
-69 - 
+69 - Mosaic
 
-70 - 
+70 - A Vintage Coat
 
 ## DIAMOND / CLUB / SPADE (2)
 
 71 - Printing Press
 
-72 - 
+72 - Water Purifier
 
 ## DIAMOND / CLUB / HEART (2)
 
 73 - Data Mapping
 
-74 - 
+74 - Archive
 
 ## DIAMOND / SPADE / HEART (2)
 
